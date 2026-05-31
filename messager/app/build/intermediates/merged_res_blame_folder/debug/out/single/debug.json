@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/drawable_shape_round_white_button.xml.flat",
+        "source": "com.example.messager.app-main-52:/drawable/shape_round_white_button.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.messager.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/drawable_shape_balloon.xml.flat",
+        "source": "com.example.messager.app-main-52:/drawable/shape_balloon.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.messager.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/layout_activity_lock_screen.xml.flat",
+        "source": "com.example.messager.app-main-52:/layout/activity_lock_screen.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/drawable_message_bubble.xml.flat",
+        "source": "com.example.messager.app-main-52:/drawable/message_bubble.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/xml_network_security_config.xml.flat",
+        "source": "com.example.messager.app-main-52:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.example.messager.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/layout_item_message.xml.flat",
+        "source": "com.example.messager.app-main-52:/layout/item_message.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.messager.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.messager.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/xml_backup_rules.xml.flat",
+        "source": "com.example.messager.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/layout_activity_set_password.xml.flat",
+        "source": "com.example.messager.app-main-52:/layout/activity_set_password.xml"
+    },
+    {
+        "merged": "com.example.messager.app-merged_res-50:/layout_layout_custom_keyboard.xml.flat",
+        "source": "com.example.messager.app-main-52:/layout/layout_custom_keyboard.xml"
+    }
+]
