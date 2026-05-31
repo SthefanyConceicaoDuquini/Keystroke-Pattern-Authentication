@@ -54,7 +54,7 @@ public class CustomKeyboard extends LinearLayout {
     private List<Character> lastTenCharactersList = new ArrayList<>();
     private int charactersSinceLastSend = 0;
     private boolean trainingDataSent = false;
-    private String serverUrl = "http://192.168.0.114:5001/receber_dados";
+    private String serverUrl = ApiConfig.getReceiveDataUrl();
     private int exportThreshold = 10;
     private Handler downloadHandler = new Handler();
 
@@ -294,7 +294,7 @@ public class CustomKeyboard extends LinearLayout {
     }
 
     private void downloadModel() {
-        String modelUrl = "http://192.168.0.114:5001/download_modelo";
+        String modelUrl = ApiConfig.getDownloadModelUrl();
         final String destinationPath = mContext.getFilesDir() + File.separator + "modelo_ocsvm.pmml";
         new Thread(new Runnable() {
             @Override

@@ -41,7 +41,5 @@
             android:exported="true">
         </activity>
 
-        <service android:name=".ModelDownloader"
-            tools:ignore="Instantiatable" />
     </application>
 </manifest>
