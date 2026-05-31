@@ -1,0 +1,16 @@
+<resources>
+    <!-- Define a cor rosa pastel -->
+    <color name="rosa_pastel">#FFB6C1</color>
+
+    <!-- Use Theme.AppCompat.Light.NoActionBar as the parent theme -->
+    <style name="Theme.Messager" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/rosa_pastel</item> <!-- Definindo a cor de fundo do app -->
+    </style>
+    <style name="RoundWhiteButton">
+        <item name="android:background">@drawable/shape_round_white_button</item>
+        <item name="android:textColor">@android:color/black</item>
+        <!-- Defina outros atributos do botão aqui, se necessário -->
+    </style>
+
+</resources>
