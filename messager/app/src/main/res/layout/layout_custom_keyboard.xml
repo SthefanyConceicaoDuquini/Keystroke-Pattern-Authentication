@@ -1,0 +1,250 @@
+<!-- layout_custom_keyboard.xml -->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- Linha 1 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Linha 1 (Botões de 'q' a 'p') -->
+        <Button
+            android:id="@+id/keyQ"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="q" />
+
+        <Button
+            android:id="@+id/keyW"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="w" />
+
+        <Button
+            android:id="@+id/keyE"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="e" />
+
+        <Button
+            android:id="@+id/keyR"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="r" />
+
+        <Button
+            android:id="@+id/keyT"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="t" />
+
+        <Button
+            android:id="@+id/keyY"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="y" />
+
+        <Button
+            android:id="@+id/keyU"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="u" />
+
+        <Button
+            android:id="@+id/keyI"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="i" />
+
+        <Button
+            android:id="@+id/keyO"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="o" />
+
+        <Button
+            android:id="@+id/keyP"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="p" />
+
+    </LinearLayout>
+
+    <!-- Linha 2 (Botões de 'a' a 'l') -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Botões de 'a' a 'l' -->
+        <Button
+            android:id="@+id/keyA"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="a" />
+
+        <Button
+            android:id="@+id/keyS"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="s" />
+
+        <Button
+            android:id="@+id/keyD"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="d" />
+
+        <Button
+            android:id="@+id/keyF"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="f" />
+
+        <Button
+            android:id="@+id/keyG"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="g" />
+
+        <Button
+            android:id="@+id/keyH"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="h" />
+
+        <Button
+            android:id="@+id/keyJ"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="j" />
+
+        <Button
+            android:id="@+id/keyK"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="k" />
+
+        <Button
+            android:id="@+id/keyL"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="l" />
+
+    </LinearLayout>
+
+    <!-- Linha 3 (Botões de 'z' a 'm') -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Botões de 'z' a 'm' -->
+        <Button
+            android:id="@+id/keyZ"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="z" />
+
+        <Button
+            android:id="@+id/keyX"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="x" />
+
+        <Button
+            android:id="@+id/keyC"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="c" />
+
+        <Button
+            android:id="@+id/keyV"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="v" />
+
+        <Button
+            android:id="@+id/keyB"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="b" />
+
+        <Button
+            android:id="@+id/keyN"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="n" />
+
+        <Button
+            android:id="@+id/keyM"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="m" />
+        <Button
+            android:id="@+id/keyBackspace"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text=""
+            android:drawableEnd="@android:drawable/ic_input_delete"
+            android:drawableTint="@android:color/black"
+            android:drawablePadding="4dp"
+            android:contentDescription="Apagar" />
+      <!--
+        <Button
+            android:id="@+id/btnShowData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Visualizar Dados" />
+        -->
+
+    </LinearLayout>
+
+    <!-- Linha 4 (Botão de espaço e botão de apagar) -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <!-- Botão de espaço com o símbolo de espaço vazio -->
+        <Button
+            android:id="@+id/keySpace"
+            android:layout_width="200dp"
+            android:layout_height="45dp"
+            android:text=" "
+            android:textSize="24sp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
